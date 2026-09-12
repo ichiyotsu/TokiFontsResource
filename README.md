@@ -20,9 +20,9 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 目前支持 Thin,Regular,Medium,Light,Bold 共 5 个不同字重的字体。
 
 ## Apple 苹果字体系列
-[下载字体](https://github.com/ichiyotsu/TokiFontsResource/tree/Apple)丨来源 个人提供
+[下载字体](https://github.com/ichiyotsu/TokiFontsResource/tree/Apple)丨来源 @红莲摩卡酱（已授权标注信息）
 ### PingFang
-苹方字体分为简体中文和繁体中文不同版本。
+苹方字体分为简体中文和繁体中文不同版本，具体可以前往下载详情页查看。
 
 目前支持 HK 香港繁中版 Light,Medium,Regular,Semibold,Thin,Ultralight 共6个不同字重的字体。
 ### SFPro
