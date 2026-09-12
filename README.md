@@ -11,15 +11,30 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 每个独立的分支页面有各自的字体预览和介绍，你也可以向下滑动来查看我们已经更新或计划更新的字体。
 > 相关内容和功能可能在不断完善中。
 
+# 文档指南
+一般在每个字体后会有括号标识当前字体的状态。
+
+`Download` 可以正常下载。
+
+`Updating` 已列入更新计划，会在未来不久完成更新。例如 [One UI Sans](#one-ui-sans-updating)
+
+`Unvailable` 因为各种原因导致无法提供该字体。暂无此类字体。
+
 # 字体选择
 
 ## Samsung 三星字体系列
 [下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Samsung)
-### Samsung One
-目前支持 200,300,400,500,600,700 共 6 个不同字重的字体。该字体未适配简体中文。
 ### Samsung Sans
 目前支持 Thin,Regular,Medium,Light,Bold 共 5 个不同字重的字体。同样的该字体也未适配简体中文。
 > 对于三星用户而言，可以通过一些方式进入外区应用商店从官方下载该字体。
+### Samsung One
+目前支持 200,300,400,500,600,700 共 6 个不同字重的字体。该字体未适配简体中文。
+### Samsung Sharp Sans (Updating)
+> 计划加入该字体。
+### One UI Sans (Updating)
+> 计划加入该字体。
+### Breeze Sans (Updating)
+> 计划加入该字体。
 
 ## Apple 苹果字体系列
 [下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Apple)
@@ -29,7 +44,7 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 苹方字体分为简体中文和繁体中文不同版本，具体可以前往下载详情页查看。
 
 目前支持 HK 香港繁中版 Light,Medium,Regular,Semibold,Thin,Ultralight 共6个不同字重的字体。该字体未适配简体中文。
-### SFPro (Unvailable)
+### SFPro (Updating)
 > 计划加入该字体。
 > 
 ## Google 谷歌字体系列
