@@ -14,7 +14,7 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 # 文档指南
 一般在每个字体后会有括号标识当前字体的状态。
 
-`Download` 可以正常下载。
+什么都没标注并且告知了有哪些字重的都可以正常下载。
 
 `Updating` 已列入更新计划，会在未来不久完成更新。例如 [One UI Sans](#one-ui-sans-updating)
 
