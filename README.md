@@ -1,7 +1,7 @@
 # 关于项目
 TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的字体...
 
-本项目的起因是在解决 OneUI 8+ 换字体教程时发现有很多人遇到了字体下载问题。
+本项目的起因是在解决 OneUI 8+ 换字体教程时发现有很多人遇到了字体下载问题，然后就这样有了一个提供下载的地方啦..
 
 # 使用方法
 你可以点开页面中的**main**来选择分支（即通过品牌分类来进行快速筛选，这部分通常包括苹方之类的常见字体）
@@ -12,26 +12,33 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 > 相关内容和功能可能在不断完善中。
 
 # 字体选择
+
 ## Samsung 三星字体系列
-[下载字体](https://github.com/ichiyotsu/TokiFontsResource/tree/Samsung)丨[来源](https://font.download/font/samsung-sans-4)
+[下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Samsung)
 ### Samsung One
-目前支持 200,300,400,500,600,700 共 6 个不同字重的字体。
+目前支持 200,300,400,500,600,700 共 6 个不同字重的字体。该字体未适配简体中文。
 ### Samsung Sans
-目前支持 Thin,Regular,Medium,Light,Bold 共 5 个不同字重的字体。
+目前支持 Thin,Regular,Medium,Light,Bold 共 5 个不同字重的字体。同样的该字体也未适配简体中文。
+> 对于三星用户而言，可以通过一些方式进入外区应用商店从官方下载该字体。
 
 ## Apple 苹果字体系列
-[下载字体](https://github.com/ichiyotsu/TokiFontsResource/tree/Apple)丨来源 @红莲摩卡酱（已授权标注信息）
+[下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Apple)
 ### PingFang
+> PingFangHK 系列字体由`红莲摩卡酱`个人提供
+
 苹方字体分为简体中文和繁体中文不同版本，具体可以前往下载详情页查看。
 
-目前支持 HK 香港繁中版 Light,Medium,Regular,Semibold,Thin,Ultralight 共6个不同字重的字体。
-### SFPro
+目前支持 HK 香港繁中版 Light,Medium,Regular,Semibold,Thin,Ultralight 共6个不同字重的字体。该字体未适配简体中文。
+### SFPro (Unvailable)
 > 计划加入该字体。
+> 
 ## Google 谷歌字体系列
-
-[下载字体](https://github.com/ichiyotsu/TokiFontsResource/tree/Google)丨[来源](https://fonts.google.com/specimen/Google+Sans)
+[下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Google)
 ### Google Sans
-> 计划加入该字体。
+目前支持 Bold,Semibold,Medium,Regular,italic,Bolditalic,Semibolditalic,Mediumitalic 共 8 个不同字重的字体。除外还支持 Variable,Variableitalic 两种无极字重的字体。该字体未适配简体中文。
+> 所谓无极字重就是说它会自动适配文字的粗细，这在部分软件做了标题栏等内容适配的情况下会有明显效果。
 ### Noto Sans CJK (Source Han Sans)
-> 对于思源黑体 由于它是2014年由Adobe和Google共同发布的字体，因此它有两个名字，但在使用和发布上完全相同。
 > 计划加入该字体。
+>
+> 对于思源黑体 由于它是2014年由Adobe和Google共同发布的字体，因此它有两个名字，但在使用上完全相同，此处采用Google发布的版本。
+
