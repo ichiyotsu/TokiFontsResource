@@ -24,7 +24,7 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 
 `Updating` 已列入更新计划，会在未来不久完成更新。例如 [One UI Sans](#one-ui-sans-updating)
 
-`Unvailable` 因为各种原因导致无法提供该字体。暂无此类字体。
+`Unvailable` 因为各种原因导致无法提供该字体。例如 [New York](#new-york-unvailable)
 <br><br>
 # IV.字体选择
 
@@ -54,10 +54,10 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 目前支持 Light,Medium,Regular,Semibold,Thin,Ultralight 共 6 个不同字重的字体。
 ### 2.3 San Francisco Pro Display (NOSC)
 目前支持 Ultralight(100),Thin(200),Light(300),Regular(400),Medium(500),Semibold(600),Bold(700),Heavy(800),Black(900) 及各自对应的 italic 共 18 个不同字重的字体。
-### 2.4 San Francisco Pro Round (Updating)
-
-### 2.5 New York (Updating)
-
+### 2.4 San Francisco Pro Round (NOSC)
+目前支持 Display 相同的 9个不同字重的字体。
+### 2.5 New York (Unvailable)
+由于找到了高达 48 个不同字重的版本，考虑到当前没做字体文件分区，因此暂不提供。
 <br><br>
 ## 03 Google 谷歌字体系列
 [下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Google)
