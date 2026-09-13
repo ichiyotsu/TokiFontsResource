@@ -25,6 +25,8 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 `Updating` 已列入更新计划，会在未来不久完成更新。例如 [One UI Sans](#one-ui-sans-updating)
 
 `Unvailable` 因为各种原因导致无法提供该字体。例如 [New York](#new-york-unvailable)
+> 此外请注意：italic 不代表一种字重文件，它是斜体的意思。在选择字体时请谨慎检查你需要的文件。
+
 <br><br>
 # IV.字体选择
 
@@ -54,8 +56,8 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 目前支持 Light,Medium,Regular,Semibold,Thin,Ultralight 共 6 个不同字重的字体。
 ### 2.3 San Francisco Pro Display (NOSC)
 目前支持 Ultralight(100),Thin(200),Light(300),Regular(400),Medium(500),Semibold(600),Bold(700),Heavy(800),Black(900) 及各自对应的 italic 共 18 个不同字重的字体。
-### 2.4 San Francisco Pro Round (NOSC)
-目前支持 2.3 相同的 9个不同字重的字体。
+### 2.4 San Francisco Pro Rounded (NOSC)
+目前支持 2.3 相同的 9 个不同字重的字体。
 ### 2.5 New York (Unvailable)
 由于找到了高达 48 个不同字重的版本，考虑到当前没做字体文件分区，因此暂不提供。
 
@@ -65,10 +67,13 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 ### 3.1 Google Sans (NOSC)
 目前支持 Bold,Semibold,Medium,Regular,italic,Bolditalic,Semibolditalic,Mediumitalic 共 8 个不同字重的字体。
 ### 3.2 Google Sans Variable (NOSC)
-当然谷歌家族字体还支持 Variable,Variableitalic 两种无极字重的字体。
+目前支持 Variable,Variableitalic 共 2 个无极字重的字体。
 > 所谓无极字重就是说它会自动适配文字的粗细，这在部分软件做了标题栏等内容适配的情况下会有明显效果。
-### 3.3 Noto Sans CJK (Source Han Sans) (Updating)
+>
+> 在 SamFonts APP 中，如果你选择了一个 Variable 文件安装字体，它会让你选择一个基准粗细，因此可以放心下载。
+### 3.3 Noto Sans CJK (Source Han Sans)
 > 对于思源黑体，由于它是2014年由Adobe和Google共同发布的字体，再Adobe发布的版本中该字体叫做 Source Han Sans 虽然名字不同，但在使用上完全相同，此处采用Google发布的版本。
+目前支持 Variable 共 1 个无极字重的字体。
 ### 3.4 Noto Serif CJK (Source Han Serif) (Updating)
 > 对于思源宋体，情况与 3.3 完全相同，此处采用Google发布的版本。
 
