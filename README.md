@@ -28,12 +28,12 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 ## 01 Samsung 三星字体系列
 [下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Samsung)
 ### 1.1 Samsung Sans
-目前支持 Thin,Regular,Medium,Light,Bold 共 5 个不同字重的字体。同样的该字体也未适配简体中文。
+目前支持 Thin,Regular,Medium,Light,Bold 共 5 个不同字重的字体。该字体未适配简体中文。
 > 对于三星用户而言，可以通过一些方式进入外区应用商店从官方下载该字体。
 ### 1.2 Samsung One
 目前支持 200,300,400,500,600,700 共 6 个不同字重的字体。该字体未适配简体中文。
-### 1.3 Samsung Sharp Sans (Updating)
-
+### 1.3 Samsung Sharp Sans
+目前支持 Regular,Medium,Bold 共 3 个不同字重的字体。该字体未适配简体中文。
 ### 1.4 One UI Sans (Updating)
 
 ### 1.5 Breeze Sans (Updating)
@@ -41,14 +41,14 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 <br><br>
 ## 02 Apple 苹果字体系列
 [下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Apple)
-### 2.1 PingFang SC (Updating)
-
+### 2.1 PingFang
+目前支持 Regular,Medium,Light,Heavy,ExtraLight,Bold 共 6 个不同字重的字体。
 ### 2.2 PingFang HK
-> PingFangHK 系列字体由`红莲摩卡酱`个人提供
+> 该系列字体由 `津岛摩卡` 个人提供
 
-目前支持 HK 香港繁中版 Light,Medium,Regular,Semibold,Thin,Ultralight 共6个不同字重的字体。该字体未适配简体中文。
-### 2.3 San Francisco Pro (Updating)
-
+目前支持 Light,Medium,Regular,Semibold,Thin,Ultralight 共6个不同字重的字体。该字体做了繁体中文的适配，但可能未适配简体中文。[为什么？](https://github.com/ichiyotsu/TokiFontsResource/tree/Apple)
+### 2.3 San Francisco Pro Display
+目前支持 Ultralight(100),Thin(200),Light(300),Regular(400),Medium(500),Semibold(600),Bold(700),Heavy(800),Black 及各自对应的 italic 共 18 个不同字重的字体。
 ### 2.4 San Francisco Pro Round (Updating)
 
 ### 2.5 New York (Updating)
