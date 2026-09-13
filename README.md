@@ -48,7 +48,7 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 
 目前支持 Light,Medium,Regular,Semibold,Thin,Ultralight 共6个不同字重的字体。该字体做了繁体中文的适配，但可能未适配简体中文。[为什么？](https://github.com/ichiyotsu/TokiFontsResource/tree/Apple)
 ### 2.3 San Francisco Pro Display
-目前支持 Ultralight(100),Thin(200),Light(300),Regular(400),Medium(500),Semibold(600),Bold(700),Heavy(800),Black 及各自对应的 italic 共 18 个不同字重的字体。
+目前支持 Ultralight(100),Thin(200),Light(300),Regular(400),Medium(500),Semibold(600),Bold(700),Heavy(800),Black 及各自对应的 italic 共 18 个不同字重的字体。该字体未适配简体中文。
 ### 2.4 San Francisco Pro Round (Updating)
 
 ### 2.5 New York (Updating)
