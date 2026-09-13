@@ -73,6 +73,7 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 > 在 SamFonts APP 中，如果你选择了一个 Variable 文件安装字体，它会让你选择一个基准粗细，因此可以放心下载。
 ### 3.3 Noto Sans CJK (Source Han Sans)
 > 对于思源黑体，由于它是2014年由Adobe和Google共同发布的字体，再Adobe发布的版本中该字体叫做 Source Han Sans 虽然名字不同，但在使用上完全相同，此处采用Google发布的版本。
+
 目前支持 Variable 共 1 个无极字重的字体。
 ### 3.4 Noto Serif CJK (Source Han Serif) (Updating)
 > 对于思源宋体，情况与 3.3 完全相同，此处采用Google发布的版本。
