@@ -9,7 +9,7 @@ SamsungOne是三星于2016年7月22日（美国时间）发布的一款专有通
 
 从One UI 2开始，您可以通过 Samsung Foundation 更新应用该字体，无需下载单独的应用程序。三星 SSD 管理程序 Samsung Magician 默认应用了该字体。自 2023 年 9 月 1 日起，Galaxy 应用商店将停止提供新字体下载，仅允许重新下载已下载的字体。从 2024 年开始，所有预装One UI 6的产品都将默认使用新字体One UI Sans，取代 Samsung One 字体，不再是过去七年来三星 Galaxy 生态系统的标志性字体。
 
-## Samsung Sharp Sans (Updating)
+## Samsung Sharp Sans
 主要用于三星的品牌标识（Logo）、广告营销以及产品包装上的标题字体，视觉上更加硬朗和现代。
 
 ## One UI Sans (Updating)
