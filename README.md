@@ -11,6 +11,8 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 在**Release**页面中，会有每此的更新通知或预发布内容。每次发布新的字体时会在各个页面和Release同时更新。
 
 每个独立的分支页面有各自的字体预览和介绍，你也可以向下滑动来查看我们已经更新或计划更新的字体。
+
+对于字体的下载，您可以在互联网搜索教程，该仓库配套教程暂未登录Github。
 <br><br>
 # III.文档指南
 只要告知了有哪些字重和字体类型的都可以正常下载。一般在每个字体后会有括号标识当前字体的状态。
@@ -24,12 +26,11 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 
 `Updating` 已列入更新计划，会在未来不久完成更新。例如 [One UI Sans](#one-ui-sans-updating)
 
-`Unvailable` 因为各种原因导致无法提供该字体。例如 [New York](#new-york-unvailable)
-> 此外请注意：italic 不代表一种字重文件，它是斜体的意思。在选择字体时请谨慎检查你需要的文件。
+`Unvailable` 因为各种原因导致无法提供该字体。暂无此类字体。
 
 <br><br>
 # IV.字体选择
-
+请注意：italic 不代表一种字重文件，它是斜体的意思。在选择字体时请谨慎检查你需要的文件。
 ## 01 Samsung 三星字体系列
 [下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Samsung)
 ### 1.1 Samsung Sans (NOSC)
@@ -56,8 +57,8 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 目前支持 Ultralight(100),Thin(200),Light(300),Regular(400),Medium(500),Semibold(600),Bold(700),Heavy(800),Black(900) 及各自对应的 italic 共 18 个不同字重的字体。
 ### 2.4 San Francisco Pro Rounded (NOSC)
 目前支持 2.3 相同的 9 个不同字重的字体。
-### 2.5 New York (Unvailable)
-目前支持高达 24 个不同字重的字体。
+### 2.5 New York (NOSC)
+目前支持 24 个不同字重的字体。
 
 <br><br>
 ## 03 Google 谷歌字体系列
@@ -73,19 +74,21 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 > 对于思源黑体，由于它是2014年由Adobe和Google共同发布的字体，Google发布的版本中该字体叫做 Noto Sans CJK 虽然名字不同，但在使用上完全相同，此处采用Adobe发布的版本。
 
 目前支持 Variable 共 1 个无极字重的字体。
-### 3.4 Source Han Serif (Noto Serif CJK) (Updating)
+### 3.4 Source Han Serif (Noto Serif CJK)
 > 对于思源宋体，情况与 3.3 完全相同，此处采用Adobe发布的版本。
+
+目前支持 7 个不同字重的字体。
 
 <br><br>
 ## 04 Corporate 其他公司品牌字体系列
-### 4.1 Microsoft YaHei (Updating)
-微软雅黑系列。
-### 4.2 Porsche Next (Updating)
-保时捷字体系列。
+### 4.1 Microsoft YaHei
+目前支持 2 个不同字重的字体。
+### 4.2 Porsche Next (NOSC)
+目前支持 1 个不同字重的字体。
 ### 4.3 Adobe FangSong Std
-Adobe仿宋标准字体。
+目前支持 1 个不同字重的字体。
 
 <br><br>
 ## 05 Cities 城市形象字体系列
-### 5.1 Shanghai Modeng (Updating)
-上海摩登字体系列。
+### 5.1 Shanghai Modeng
+目前支持 1 个不同字重的字体。
