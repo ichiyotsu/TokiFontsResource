@@ -57,7 +57,7 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 ### 2.4 San Francisco Pro Rounded (NOSC)
 目前支持 2.3 相同的 9 个不同字重的字体。
 ### 2.5 New York (Unvailable)
-由于找到了高达 48 个不同字重的版本，考虑到当前没做字体文件分区，因此暂不提供。
+目前支持高达 24 个不同字重的字体。
 
 <br><br>
 ## 03 Google 谷歌字体系列
