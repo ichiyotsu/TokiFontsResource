@@ -48,10 +48,8 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 [下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Apple)
 ### 2.1 PingFang
 目前支持 Regular,Medium,Light,Heavy,ExtraLight,Bold 共 6 个不同字重的字体。
-### 2.2 PingFang HK (NOSC)*
+### 2.2 PingFang HK
 > 该系列字体由 `津岛摩卡` 个人提供
-
-> 该字体做了繁体中文的适配，但可能未适配简体中文。[为什么？](https://github.com/ichiyotsu/TokiFontsResource/tree/Apple)
 
 目前支持 Light,Medium,Regular,Semibold,Thin,Ultralight 共 6 个不同字重的字体。
 ### 2.3 San Francisco Pro Display (NOSC)
