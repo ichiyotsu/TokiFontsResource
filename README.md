@@ -77,11 +77,13 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 > 对于思源宋体，情况与 3.3 完全相同，此处采用Adobe发布的版本。
 
 <br><br>
-## 04 Corporate 公司品牌字体系列
+## 04 Corporate 其他公司品牌字体系列
 ### 4.1 Microsoft YaHei (Updating)
 微软雅黑系列。
 ### 4.2 Porsche Next (Updating)
 保时捷字体系列。
+### 4.3 Adobe FangSong Std
+Adobe仿宋标准字体。
 
 <br><br>
 ## 05 Cities 城市形象字体系列
