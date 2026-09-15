@@ -56,13 +56,13 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 ### 2.1 PingFang
 <img width="2160" height="1440" alt="ApplePF" src="https://github.com/user-attachments/assets/3673323d-96f7-4895-91bc-d811d1e8b990" />
 
-目前支持 Regular,Medium,Light,Heavy,ExtraLight,Bold 共 6 个不同字重的字体。
+苹方。目前支持 Regular,Medium,Light,Heavy,ExtraLight,Bold 共 6 个不同字重的字体。
 ### 2.2 PingFang HK
 > 该系列字体由 `津岛摩卡` 个人提供
 
 <img width="2160" height="1440" alt="ApplePFHK" src="https://github.com/user-attachments/assets/b2fd5a6f-3bdf-43d6-b64e-93580103decd" />
 
-目前支持 Light,Medium,Regular,Semibold,Thin,Ultralight 共 6 个不同字重的字体。
+苹方-港。目前支持 Light,Medium,Regular,Semibold,Thin,Ultralight 共 6 个不同字重的字体。
 ### 2.3 San Francisco Pro Display (NOSC)
 <img width="2160" height="1440" alt="SFProDisplay" src="https://github.com/user-attachments/assets/a785e940-f4e4-4039-a783-526ef292d149" />
 
@@ -103,10 +103,11 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 
 <br><br>
 ## 04 Corporate 其他公司品牌字体系列
+[下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Corporate)
 ### 4.1 Microsoft YaHei
 <img width="2160" height="1440" alt="MicroYaHei" src="https://github.com/user-attachments/assets/ba0b63aa-3bd9-4b8e-9f8f-6a2f6cb6da41" />
 
-目前支持 2 个不同字重的字体。
+微软雅黑。目前支持 2 个不同字重的字体。
 ### 4.2 Porsche Next (NOSC)
 <img width="2160" height="1440" alt="PorscheNext" src="https://github.com/user-attachments/assets/087a0ced-c329-488e-b3cc-597f655b888a" />
 
@@ -114,27 +115,42 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 ### 4.3 Adobe FangSong Std
 <img width="2160" height="1440" alt="AdobeFSstd" src="https://github.com/user-attachments/assets/d60c41e2-1cec-4102-8c7f-a1609c4acdf7" />
 
-目前支持 1 个不同字重的字体。
+仿宋标准。目前支持 1 个不同字重的字体。
 ### 4.4 HarmonyOS Sans
 <img width="2160" height="1440" alt="HarmonyOS" src="https://github.com/user-attachments/assets/985dcd2e-e170-4941-a964-0b9f17139a4d" />
 
-目前支持 1 个无极字重的字体。
+鸿蒙黑体。目前支持 1 个无极字重的字体。
 ### 4.5 MiSans
 <img width="2160" height="1440" alt="MiSans" src="https://github.com/user-attachments/assets/28707467-27e3-40cb-b6d8-dec046ee9299" />
 
-目前支持 Thin,xtraLight,Light,Normal,Regular,Medium,Demibold,Semibold,Bold,Heavy 共 10 个不同字重的字体。
+小米字体。目前支持 Thin,xtraLight,Light,Normal,Regular,Medium,Demibold,Semibold,Bold,Heavy 共 10 个不同字重的字体。
 ### 4.6 Canva Sans (Updating)
 
 <br><br>
 ## 05 Cities 城市形象字体系列
+[下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Cities)
 ### 5.1 Shanghai Modeng
 <img width="2160" height="1440" alt="SM" src="https://github.com/user-attachments/assets/93009599-9bdb-4e2c-ad97-4ef640653a60" />
 
-目前支持 1 个不同字重的字体。
+上海摩登体。目前支持 1 个不同字重的字体。
 
 <br><br>
 ## 06 Community-contributed 社区投入仓库的字体
-这部分字体库未来可能会相当庞大，且当前版本不做分类。
-### 6.1 棉花糖拼音 (Updating)
+[下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Community-contributed)
+这部分字体库未来可能会相当庞大，
 
-### 6.2 也字工厂爱的心电图 (Updating)
+目前按照 手写体丨黑圆方宋体丨其他字体 作分类。
+
+对于字体应该放在哪个类别里将做主观判断，文件存在哪个位置会进行特别告知，不影响下载。
+
+如果你觉得字体列表看起来太复杂，可以点击上方的详情页直接进入分类仓库查找。
+
+对于社区投入的字体，通常没有不同字重的版本，因此不作`“目前支持_个不同字重字体”`的标记，当出现该情况时将做特别标注。
+### 6.1 棉花糖拼音体
+> 该字体由 `Gnasche.` 个人提供
+<img width="2160" height="1440" alt="mianhuatangpinyin" src="https://github.com/user-attachments/assets/a6f26abd-1c4f-4962-b02c-e730fd0e2761" />
+
+### 6.2 康熙字典体
+> 该字体由 `Gnasche.` 个人提供
+<img width="2160" height="1440" alt="kangxizidian" src="https://github.com/user-attachments/assets/86bf1a59-38ac-4062-8325-db3e4b093c5b" />
+
