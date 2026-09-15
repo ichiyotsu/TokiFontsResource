@@ -129,10 +129,10 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 ### 4.7 OPPO Sans 4.0
 
 目前支持 1 个不同字重的字体。
-### 4.8 抖音美好体
+### 4.8 DouYinSans
 <img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/0c684dd8-f63f-41a4-9a9b-e1487fe2cc4b" />
 
-仿宋标准。目前支持 1 个不同字重的字体。
+抖音美好体。目前支持 1 个不同字重的字体。
 
 <br><br>
 ## 05 Cities 城市形象字体系列
