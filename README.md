@@ -60,30 +60,44 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 ### 2.2 PingFang HK
 > 该系列字体由 `津岛摩卡` 个人提供
 
+<img width="2160" height="1440" alt="ApplePFHK" src="https://github.com/user-attachments/assets/b2fd5a6f-3bdf-43d6-b64e-93580103decd" />
+
 目前支持 Light,Medium,Regular,Semibold,Thin,Ultralight 共 6 个不同字重的字体。
 ### 2.3 San Francisco Pro Display (NOSC)
+<img width="2160" height="1440" alt="SFProDisplay" src="https://github.com/user-attachments/assets/a785e940-f4e4-4039-a783-526ef292d149" />
+
 目前支持 Ultralight(100),Thin(200),Light(300),Regular(400),Medium(500),Semibold(600),Bold(700),Heavy(800),Black(900) 及各自对应的 italic 共 18 个不同字重的字体。
 ### 2.4 San Francisco Pro Rounded (NOSC)
+<img width="2160" height="1440" alt="SFProRounded" src="https://github.com/user-attachments/assets/a5acbb11-3715-48fb-ab68-8494eea07ddb" />
+
 目前支持 2.3 相同的 9 个不同字重的字体。
 ### 2.5 New York (NOSC)
+<img width="2160" height="1440" alt="NY" src="https://github.com/user-attachments/assets/774cd26d-c906-4049-b724-8dc6dc1b32cf" />
+
 目前支持 24 个不同字重的字体。
 
 <br><br>
 ## 03 Google 谷歌字体系列
 [下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Google)
 ### 3.1 Google Sans (NOSC)
+<img width="2160" height="1440" alt="GoogleSans" src="https://github.com/user-attachments/assets/2951b43a-1223-4d84-956f-dbb69fe03674" />
+
 目前支持 Bold,Semibold,Medium,Regular,italic,Bolditalic,Semibolditalic,Mediumitalic 共 8 个不同字重的字体。
 ### 3.2 Google Sans Variable (NOSC)
+<img width="2160" height="1440" alt="GoogleSansV" src="https://github.com/user-attachments/assets/cefe6753-ffb5-4508-8073-0472306c3ced" />
+
 目前支持 Variable,Variableitalic 共 2 个无极字重的字体。
 > 所谓无极字重就是说它会自动适配文字的粗细，这在部分软件做了标题栏等内容适配的情况下会有明显效果。
 >
 > 在 SamFonts APP 中，如果你选择了一个 Variable 文件安装字体，它会让你选择一个基准粗细，因此可以放心下载。
 ### 3.3 Source Han Sans (Noto Sans CJK)
 > 对于思源黑体，由于它是2014年由Adobe和Google共同发布的字体，Google发布的版本中该字体叫做 Noto Sans CJK 虽然名字不同，但在使用上完全相同，此处采用Adobe发布的版本。
+<img width="2160" height="1440" alt="SHans" src="https://github.com/user-attachments/assets/b4c1752c-1d56-46ce-b524-499a53e2446c" />
 
 目前支持 Variable 共 1 个无极字重的字体。
 ### 3.4 Source Han Serif (Noto Serif CJK)
 > 对于思源宋体，情况与 3.3 完全相同，此处采用Adobe发布的版本。
+<img width="2160" height="1440" alt="SSerif" src="https://github.com/user-attachments/assets/44154d15-3550-4c46-bfc2-558a13da4734" />
 
 目前支持 7 个不同字重的字体。
 
@@ -110,7 +124,8 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 <br><br>
 ## 05 Cities 城市形象字体系列
 ### 5.1 Shanghai Modeng
-<img width="2160" height="1440" alt="SM" src="https://github.com/user-attachments/assets/089fa9f0-8315-45ef-b18b-c8392137a559" />
+<img width="2160" height="1440" alt="SM" src="https://github.com/user-attachments/assets/93009599-9bdb-4e2c-ad97-4ef640653a60" />
+
 目前支持 1 个不同字重的字体。
 
 <br><br>
