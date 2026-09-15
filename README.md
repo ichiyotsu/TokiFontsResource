@@ -115,10 +115,14 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 <img width="2160" height="1440" alt="AdobeFSstd" src="https://github.com/user-attachments/assets/d60c41e2-1cec-4102-8c7f-a1609c4acdf7" />
 
 目前支持 1 个不同字重的字体。
-### 4.4 HarmonyOS Sans (Updating)
+### 4.4 HarmonyOS Sans
+<img width="2160" height="1440" alt="HarmonyOS" src="https://github.com/user-attachments/assets/985dcd2e-e170-4941-a964-0b9f17139a4d" />
 
-### 4.5 MiSans Global (Updating)
+目前支持 1 个无极字重的字体。
+### 4.5 MiSans
+<img width="2160" height="1440" alt="MiSans" src="https://github.com/user-attachments/assets/28707467-27e3-40cb-b6d8-dec046ee9299" />
 
+目前支持 Thin,xtraLight,Light,Normal,Regular,Medium,Demibold,Semibold,Bold,Heavy 共 10 个不同字重的字体。
 ### 4.6 Canva Sans (Updating)
 
 <br><br>
