@@ -154,3 +154,9 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 > 该字体由 `Gnasche.` 个人提供
 <img width="2160" height="1440" alt="kangxizidian" src="https://github.com/user-attachments/assets/86bf1a59-38ac-4062-8325-db3e4b093c5b" />
 
+### 6.3 源雲明體
+<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/7ac9ad64-f538-4eed-bdb2-4359e15de31f" />
+目前支持 EL(Extralight),M(Medium),L(Light),SB(Semibold),R(Regular) 共 5 个不同字重的字体。
+
+### 6.4 俐方體11號·像素字体
+<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/8fc7babf-86e4-4046-a5f5-b0802fcf5d34" />
