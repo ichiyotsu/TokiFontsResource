@@ -34,11 +34,17 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 ## 01 Samsung 三星字体系列
 [下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Samsung)
 ### 1.1 Samsung Sans (NOSC)
+<img width="2160" height="1440" alt="samsans" src="https://github.com/user-attachments/assets/b89c4992-5761-4985-aace-e3d6d7ffc6b6" />
+
 目前支持 Thin,Regular,Medium,Light,Bold 共 5 个不同字重的字体。
 > 对于三星用户而言，可以通过一些方式进入外区应用商店从官方下载该字体。
 ### 1.2 Samsung One (NOSC)
+<img width="2160" height="1440" alt="samone" src="https://github.com/user-attachments/assets/ace1f6b0-4df9-4844-970b-0a29217e13fb" />
+
 目前支持 200,300,400,500,600,700 共 6 个不同字重的字体。
 ### 1.3 Samsung Sharp Sans (NOSC)
+<img width="2160" height="1440" alt="samsharp" src="https://github.com/user-attachments/assets/609b6373-eb01-4631-9504-cc4c4bde973c" />
+
 目前支持 Regular,Medium,Bold 共 3 个不同字重的字体。
 ### 1.4 One UI Sans (Updating)
 
@@ -48,6 +54,8 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 ## 02 Apple 苹果字体系列
 [下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Apple)
 ### 2.1 PingFang
+<img width="2160" height="1440" alt="ApplePF" src="https://github.com/user-attachments/assets/3673323d-96f7-4895-91bc-d811d1e8b990" />
+
 目前支持 Regular,Medium,Light,Heavy,ExtraLight,Bold 共 6 个不同字重的字体。
 ### 2.2 PingFang HK
 > 该系列字体由 `津岛摩卡` 个人提供
@@ -82,13 +90,20 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 <br><br>
 ## 04 Corporate 其他公司品牌字体系列
 ### 4.1 Microsoft YaHei
+<img width="2160" height="1440" alt="MicroYaHei" src="https://github.com/user-attachments/assets/ba0b63aa-3bd9-4b8e-9f8f-6a2f6cb6da41" />
+
 目前支持 2 个不同字重的字体。
 ### 4.2 Porsche Next (NOSC)
+<img width="2160" height="1440" alt="PorscheNext" src="https://github.com/user-attachments/assets/087a0ced-c329-488e-b3cc-597f655b888a" />
+
 目前支持 1 个不同字重的字体。
 ### 4.3 Adobe FangSong Std
+<img width="2160" height="1440" alt="AdobeFSstd" src="https://github.com/user-attachments/assets/d60c41e2-1cec-4102-8c7f-a1609c4acdf7" />
+
 目前支持 1 个不同字重的字体。
 
 <br><br>
 ## 05 Cities 城市形象字体系列
 ### 5.1 Shanghai Modeng
+<img width="2160" height="1440" alt="SM" src="https://github.com/user-attachments/assets/089fa9f0-8315-45ef-b18b-c8392137a559" />
 目前支持 1 个不同字重的字体。
