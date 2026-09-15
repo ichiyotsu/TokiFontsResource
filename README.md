@@ -22,11 +22,11 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 `NOSC` 无简中。表示该字体没有针对简体中文进行专门适配，会显示系统原生的字体。
 > 在 OneUI 上，由于系统本身也没有针对适配，对于部分字体可能会导致视觉上粗细极不均匀。
 
-`Maintained` 字体正在维护。可能是遇到了一些什么问题需要修补等等。暂无此类字体。
+`Maintained` 字体正在维护。可能是遇到了一些什么问题需要修补等等。
 
-`Updating` 已列入更新计划，会在未来不久完成更新。例如 [One UI Sans](#one-ui-sans-updating)
+`Updating` 已列入更新计划，会在未来不久完成更新。
 
-`Unvailable` 因为各种原因导致无法提供该字体。暂无此类字体。
+`Unvailable` 因为各种原因导致无法提供该字体。例如 [One UI Sans](#one-ui-sans-updating)
 
 <br><br>
 # IV.字体选择
@@ -46,7 +46,7 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 <img width="2160" height="1440" alt="samsharp" src="https://github.com/user-attachments/assets/609b6373-eb01-4631-9504-cc4c4bde973c" />
 
 目前支持 Regular,Medium,Bold 共 3 个不同字重的字体。
-### 1.4 One UI Sans (Updating)
+### 1.4 One UI Sans (Unvailable)
 
 ### 1.5 Breeze Sans (Updating)
 
@@ -101,9 +101,21 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 <img width="2160" height="1440" alt="AdobeFSstd" src="https://github.com/user-attachments/assets/d60c41e2-1cec-4102-8c7f-a1609c4acdf7" />
 
 目前支持 1 个不同字重的字体。
+### 4.4 HarmonyOS Sans (Updating)
+
+### 4.5 MiSans Global (Updating)
+
+### 4.6 Canva Sans (Updating)
 
 <br><br>
 ## 05 Cities 城市形象字体系列
 ### 5.1 Shanghai Modeng
 <img width="2160" height="1440" alt="SM" src="https://github.com/user-attachments/assets/089fa9f0-8315-45ef-b18b-c8392137a559" />
 目前支持 1 个不同字重的字体。
+
+<br><br>
+## 06 Community-contributed 社区投入仓库的字体
+这部分字体库未来可能会相当庞大，且当前版本不做分类。
+### 6.1 棉花糖拼音 (Updating)
+
+### 6.2 也字工厂爱的心电图 (Updating)
