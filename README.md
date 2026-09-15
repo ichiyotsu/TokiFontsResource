@@ -126,6 +126,14 @@ TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的
 小米字体。目前支持 Thin,xtraLight,Light,Normal,Regular,Medium,Demibold,Semibold,Bold,Heavy 共 10 个不同字重的字体。
 ### 4.6 Canva Sans (Updating)
 
+### 4.7 OPPO Sans 4.0
+
+目前支持 1 个不同字重的字体。
+### 4.8 抖音美好体
+<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/0c684dd8-f63f-41a4-9a9b-e1487fe2cc4b" />
+
+仿宋标准。目前支持 1 个不同字重的字体。
+
 <br><br>
 ## 05 Cities 城市形象字体系列
 [下载&详情](https://github.com/ichiyotsu/TokiFontsResource/tree/Cities)
