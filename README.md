@@ -1,3 +1,5 @@
+### * **本项目正在全面整理迁移至 [TokiFonts](https://github.com/ichiyotsu/TokiFonts)**
+<br><br>
 # I.关于项目
 TokiFontsResource 只是一个字体资源库啦..会随机收容一些好看的字体...
 
